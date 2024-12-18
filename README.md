@@ -1,2 +1,2 @@
-# vardhan-project
+# grocery store
 new repo
